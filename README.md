@@ -2,5 +2,5 @@
 Timer for calculating how long to boil an egg
 ###### Designed for iOS13 & up
 
-## Side Note
-This app was made through a course by the App Brewery.
+### Disclaimer
+This app was made with the help of a course made by [The App Brewery](https://www.appbrewery.co)
